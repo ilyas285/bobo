@@ -1,0 +1,21 @@
+.obc{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.text {
+  flex 1;
+}
+
+.photo{
+display: flex;
+gap: 10px;
+}
+
+.photo img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 0px;
+}
